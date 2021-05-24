@@ -1,0 +1,21 @@
+.heading{
+box-shadow:5px 5px 5px grey;
+width:100%;
+font-size:23px;
+margin:0px;
+}
+
+.note{
+color:black;
+font-size:15px;
+}
+
+.footer{
+width:100%;
+background-color:grey;
+line-height:3;
+bottom:0;
+position:fixed;
+color:white;
+text-align:center;
+}
